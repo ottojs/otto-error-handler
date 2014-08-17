@@ -4,7 +4,7 @@
   "repository" : "https://github.com/ottojs/otto-error-handler.git",
   "main" : "./lib/index.js",
   "dependencies" : {
-    "otto-response" : "0.0.2"
+    "otto-response" : "0.0.8"
   },
   "devDependencies" : {
     "jshint"    : "2.5.3",
